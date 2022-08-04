@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplePersonsSearch/static/css/main.bc5320b0.css",
+    "main.js": "/simplePersonsSearch/static/js/main.ef424355.js",
+    "static/js/787.852ba6a8.chunk.js": "/simplePersonsSearch/static/js/787.852ba6a8.chunk.js",
+    "index.html": "/simplePersonsSearch/index.html",
+    "main.bc5320b0.css.map": "/simplePersonsSearch/static/css/main.bc5320b0.css.map",
+    "main.ef424355.js.map": "/simplePersonsSearch/static/js/main.ef424355.js.map",
+    "787.852ba6a8.chunk.js.map": "/simplePersonsSearch/static/js/787.852ba6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5320b0.css",
+    "static/js/main.ef424355.js"
+  ]
+}
